@@ -1314,7 +1314,7 @@ public class Acceuil {
 		
 		JButton btnrefresh_1 = new JButton("Actualiser");
 		btnrefresh_1.setFont(new Font("Times New Roman", Font.BOLD, 12));
-		btnrefresh_1.setBounds(568, 22, 89, 23);
+		btnrefresh_1.setBounds(556, 22, 89, 23);
 		panel_13_1.add(btnrefresh_1);
 		
 		JPanel panel_14_1 = new JPanel();
